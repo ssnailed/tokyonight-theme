@@ -1,12 +1,10 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=tokyo-night
+Name=tokyonight
 Comment=Modified Materia-dark theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
 GtkTheme=Materia-dark
 MetacityTheme=Materia-dark
-IconTheme=tokyo-night
-CursorTheme=tokyo-night
-CursorSize=24
+IconTheme=tokyonight
